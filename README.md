@@ -1,6 +1,6 @@
 
 # 🌅 QuickNotes: Sunset Edition
-#Deployed Application (https://quicknotes-ivory.vercel.app/)
+# Deployed Application (https://quicknotes-ivory.vercel.app/)
 
 A crisp, professional dashboard for capturing thoughts during the golden hour. Designed with a 40/60 split layout, featuring "Glowing Glass" aesthetics and a permanent sunset-inspired color palette.
 
